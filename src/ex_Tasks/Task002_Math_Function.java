@@ -1,6 +1,6 @@
 package ex_Tasks;
 
-public class Task002_Operator {
+public class Task002_Math_Function {
     public static void main(String[] args) {
         byte x = 10, y = 10, z = 10;
         double result = 0;
