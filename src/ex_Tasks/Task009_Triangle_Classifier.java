@@ -20,5 +20,7 @@ public class Task009_Triangle_Classifier {
         else {
             System.out.println("The triangle is scalene.");
         }
+
+        scanner.close();
     }
 }

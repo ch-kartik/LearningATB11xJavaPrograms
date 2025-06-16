@@ -15,5 +15,7 @@ public class Task008_Even_Odd_Number {
             System.out.println(number + " is an odd number.");
         }
 
+        scanner.close();
+
     }
 }
