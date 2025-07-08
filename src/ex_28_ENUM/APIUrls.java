@@ -10,7 +10,6 @@ public enum APIUrls {
     APIUrls(String url){
         this.url = url;
     }
-
     String getUrl(){
         return this.url;
     }
